@@ -9,7 +9,7 @@ import hashlib, requests, os
 
 cl = discord.Client()
 client = commands.Bot(command_prefix="!!")
-TOKEN="OTMwODAyNjYxMDU2NDU4ODE0.Yd7Lhw.8oZisuDT8-hZD7K3WkUyLlHXiuI"
+TOKEN="TOKEN-HERE"
 
 os.system('cls' if os.name == 'nt' else 'clear')
 members = 0
